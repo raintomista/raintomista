@@ -1,7 +1,7 @@
 ## Hey there 👋
-![](https://komarev.com/ghpvc/?username=raintomista&style=flat-square)
 
 I'm Rain, a product-centric frontend engineer based in 🇵🇭 &nbsp;Manila, Philippines.
+
 - 🌏 &nbsp; Working remotely (UTC+8) since 2019
 - 💻 &nbsp; Loves creating web apps with **React, Styled Components, and TypeScript.**
 - 📚 &nbsp; Interested in **Swift, WebGL 3D Graphics Programming, WebRTC, and WebAssembly.**
