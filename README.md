@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I'm Rain, a product-centric frontend engineer based in 🇵🇭 &nbsp;Manila, Philippines.
+I'm Rain, a product-centric software engineer based in 🇵🇭 &nbsp;Manila, Philippines.
 
 - 🌏 &nbsp; Working remotely (UTC+8) since 2019
 - 💻 &nbsp; Loves creating web apps with **React, Styled Components, and TypeScript.**
